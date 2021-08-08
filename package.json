@@ -1,0 +1,21 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@mdi/js": "^5.3.45",
+    "@nuxtjs/axios": "^5.12.2",
+    "nuxt": "^2.13.0",
+    "roboto-fontface": "^0.10.0",
+    "ws": "^7.3.1"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.11.2"
+  }
+}
